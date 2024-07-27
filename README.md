@@ -15,4 +15,10 @@ Este tipo de modelos suelen ser realizados de forma paralela, el hecho de realiz
 
 ### Parte 2
 ¿Qué haría para mejorar el rendimiento del modelo?
+
+Comenzaría alterando los hiperparámetros, como el learning rate, el batch size, el número de capas y neuronas, entre otros. También se podría realizar un aumento del tamaño de las imágenes para poder tener un mejor modelo.
+También se podría aumentar el número de épocas (aunque, debido a la gráfica, parece que no tendría un mayor impacto).
+
 ¿Qué haría para disminuir las posibilidades de overfitting?
+
+Hay varias formas de disminuir el overfitting, una de ellas es aumentar el tamaño del dataset, también se podría realizar un aumento de las imágenes, o bien, se podría realizar un aumento de las capas de dropout.
